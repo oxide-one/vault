@@ -7,7 +7,7 @@
     }
   },
   "seal": {
-	"gcpkms": {}
+	"gcpckms": {}
   },
   "listener" : {
     "tcp" : {
